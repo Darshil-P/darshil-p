@@ -2,7 +2,7 @@
 - I'm a 3rd Year Computer Science Student
 - Currently Working on Android Development with Flutter
 - Interested in Full-Stack Development
-- I Want to Learn React & Rust
+- I Want to Learn Svelte & Rust
 - Fun Fact: I Use Arch
 
 <hr/>
@@ -24,5 +24,5 @@
 <hr>
 
 <a href="https://github.com/Darshil-P">
-	<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Darshil-P&custom_title=Contribution%20Graph&radius=8&area=true&height=300&hide_border=true&theme=tokyo-night"/>
+	<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Darshil-P&custom_title=Contribution%20Graph&radius=8&area=true&height=300&hide_border=true&theme=tokyo-night"/>
 </a>
