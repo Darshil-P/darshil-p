@@ -8,20 +8,20 @@
 <hr/>
 
 <a href="https://github.com/Darshil-P">
-  <img width="54.25%" src="https://github-readme-stats.vercel.app/api?username=darshil-p&count_private=true&hide=issues&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
+  <img width="54.00%" src="https://github-readme-stats.vercel.app/api?username=darshil-p&count_private=true&hide=issues&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Darshil-P">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil-p&count_private=true&layout=compact&langs_count=4&hide_title=true&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight"/>
+  <img width="45.00%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil-p&count_private=true&layout=compact&langs_count=4&hide_title=true&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight"/>
 </a>
 
 <hr>
 
 <a href="https://github.com/Darshil-P/good-game">
-		<img width="49.75%" src="https://github-readme-stats.vercel.app/api/pin/?username=darshil-p&repo=good-game&theme=tokyonight&hide_border=true"/>
+		<img width="49.50%" src="https://github-readme-stats.vercel.app/api/pin/?username=darshil-p&repo=good-game&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Darshil-P/fiesta">
-		<img width="49.75%" src="https://github-readme-stats.vercel.app/api/pin/?username=darshil-p&repo=fiesta&theme=tokyonight&hide_border=true"/>
+		<img width="49.50%" src="https://github-readme-stats.vercel.app/api/pin/?username=darshil-p&repo=fiesta&theme=tokyonight&hide_border=true"/>
 </a>
 
 <hr>
